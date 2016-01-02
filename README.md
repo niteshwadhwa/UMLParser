@@ -1,12 +1,12 @@
 # UMLParser 
 
-• Designed a UML Parser to Reverse Engineer the Java Code back to UML Class Diagrams
+• Designed a UML Parser to Reverse Engineer the Java Code back to UML Class Diagrams.                                                 
 • It generates UML Class Diagram in PNG, JPEG and PDF formats, which can be easily downloaded.  
 
 Compiling Instructions: 
 
 Download dist folder (source code is present in this folder) from google drive present in Java Source Code Zip Folder 
-These Descriptions are for running the UML Parser on Windows Operating System Only: 
+These Descriptions are for using the UMLParser on Windows Operating System Only: 
 
 Step 1: 
 As I have chosen python-2.7 as programming lanaguage. so,python should be up and running with following Packages: 
@@ -30,3 +30,5 @@ First argument: Path for Java Files
 Second argument: Name of class diagram image 
 
 Note: Image will be generated at the same location given in first argument and if any image with the same name exist, New Image will overwrite it
+
+Cheers :)
