@@ -6,7 +6,7 @@
 Compiling Instructions: 
 
 Download dist folder (source code is present in this folder) from google drive present in Java Source Code Zip Folder 
-These Descriptions are for running the UML Parser on Windows Operating System Only: 
+These Descriptions are for using the UMLParser on Windows Operating System Only: 
 
 Step 1: 
 As I have chosen python-2.7 as programming lanaguage. so,python should be up and running with following Packages: 
