@@ -1,6 +1,6 @@
 # UMLParser 
 
-• Designed a UML Parser to Reverse Engineer the Java Code back to UML Class Diagrams
+• Designed a UML Parser to Reverse Engineer the Java Code back to UML Class Diagrams.                                                 
 • It generates UML Class Diagram in PNG, JPEG and PDF formats, which can be easily downloaded.  
 
 Compiling Instructions: 
@@ -30,3 +30,5 @@ First argument: Path for Java Files
 Second argument: Name of class diagram image 
 
 Note: Image will be generated at the same location given in first argument and if any image with the same name exist, New Image will overwrite it
+
+Cheers :)
